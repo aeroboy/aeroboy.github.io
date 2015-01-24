@@ -35,7 +35,8 @@
 
 ### Brix Command Center(BCC) for EV3
 * 最新版のtestXXX.zipを開くとインストーラバイナリがある。それを実行。
-* port:usb,  type: EV3,   firmware: linux を選ぶ。
+* port:usb,  type: EV3,   firmware: linux を選ぶ
+
 ### BCC for NXT
 * 最新版でもNXTは認識する。
 * LEGOソフトをインストールしないと、USB接続ができない。
